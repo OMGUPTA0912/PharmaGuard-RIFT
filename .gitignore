@@ -21,3 +21,10 @@ Thumbs.db
 *.vcf
 *.vcf.gz
 !sample_test.vcf
+
+# Ignore root lab/school files
+/*.py
+/*.pdf
+/*.ipynb
+/New folder4/
+/project/
