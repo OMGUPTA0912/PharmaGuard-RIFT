@@ -1,0 +1,23 @@
+# Node
+node_modules/
+dist/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Hackathon / VCF files (Ignore real patient data)
+*.vcf
+*.vcf.gz
+!sample_test.vcf
